@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**zaidafzal1218/zaidafzal1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Objective
+Seeking education in Fin Land university.
+# Education
+**Punjab Grammer School**
+ matric in medical                    year 2020
+**Superior College**
+ fsc in engeneering                    year 2021-2022
+# Skills
+ Office managment
+# Language
+ Urdu
+ English
+ 
