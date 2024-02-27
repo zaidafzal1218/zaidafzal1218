@@ -9,6 +9,8 @@ Seeking education in Fin Land university.
  fsc in engeneering                    year 2021-2022
 # Skills
  Office managment
+
+ Hotel mangment
 # Language
  Urdu
 
